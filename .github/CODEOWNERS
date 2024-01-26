@@ -3,21 +3,7 @@
 ## Owners
 
 README.md @rmgarciaex_bice
-
-## Feature Branch
-
-# Developers working on feature branches:
-
-/feature/* @bitbucket-repo1-dev
-
-## Develop and Release Branch
-
-# Technical Leads responsible for approval in Develop and managing changes in Release:
-
-**/develop/** @bitbucket-repo1-tl
-**/release/** @bitbucket-repo1-tl
-
-## Master Branch
+uk
 
 # Custodians responsible for approving Pull Requests to Master:
 
